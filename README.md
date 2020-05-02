@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Simple Maven Project taken from yankils repository for learnings
